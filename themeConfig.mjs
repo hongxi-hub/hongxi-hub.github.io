@@ -20,10 +20,8 @@ export const themeConfig = {
       link: "https://hongxi-hub.github.io/",
     },
   },
-  // 备案信息
-  icp: "鄂ICP备202411-001号",  
   // 建站日期
-  since: "2024-11-1",
+  since: "2025-12-22",
   // 每页文章数据
   postSize: 8,
   // inject
