@@ -220,19 +220,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:admin@24811213.xyz",
+        link: "暂无",
       },
       {
         icon: "github",
-        link: "https://github.com/yutian81/",
-      },
-      {
-        icon: "telegram",
-        link: "https://t.me/yutian88881",
-      },
-      {
-        icon: "bilibili",
-        link: "暂不显示",
+        link: "https://github.com/hongxi-hub",
       },
     ],
     // sitemap
