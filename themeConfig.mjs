@@ -152,21 +152,11 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "博客主站",
-          url: "https://blog.811520.xyz/",
+          url: "https://hongxi-hub.github.io/",
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "博客演示站",
-          url: "/",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "个人主页",
-          url: "https://daoyi.hidns.vip/#/",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "私有工具",
+          name: "原站工具",
           url: "https://blog.811520.xyz/tlink/",
         },
       ],
@@ -206,31 +196,6 @@ export const themeConfig = {
         },
       ],
     },
-    {
-      name: "服务",
-      list: [
-        {
-          icon: "https://pan.811520.xyz/2024-11/1730875618-1730875614898.webp",
-          name: "今日热榜",
-          url: "https://hot.imsyy.top/",
-        },
-        {
-          icon: "https://rss.811520.xyz/favicon.ico",
-          name: "友圈后端",
-          url: "https://rss.811520.xyz/",
-        },
-        {
-          icon: "https://pan.811520.xyz/2024-11/1730634973-Cloudflare_Logo.webp",
-          name: "CF优选",
-          url: "https://blog2.811520.xyz/blogrss/",
-        },
-        {
-          icon: "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
-          name: "Serv00",
-          url: "https://github.com/yutian81/serv00-ct8-ssh",
-        },
-      ],
-    },
   ],
   // 封面配置
   cover: {
@@ -267,7 +232,7 @@ export const themeConfig = {
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/677845115",
+        link: "暂不显示",
       },
     ],
     // sitemap
@@ -284,10 +249,10 @@ export const themeConfig = {
       {
         text: "云端平台",
         items: [
-          { text: "Vercel", link: "https://vercel.com/", newTab: true },
-          { text: "NorthFlank", link: "https://app.northflank.com/", newTab: true },
-          { text: "Koyeb", link: "https://app.koyeb.com/", newTab: true },
-          { text: "Huawei", link: "https://www.huaweicloud.com/intl/zh-cn/", newTab: true },
+          { text: "github", link: "https://github.com/", newTab: true },
+          { text: "inaturalist", link: "https://www.inaturalist.org/", newTab: true },
+          { text: "deepseek", link: "https://chat.deepseek.com/", newTab: true },
+          { text: "Sci-Hub", link: "https://www.sci-hub.st/", newTab: true },
         ],
       },
       {
@@ -299,15 +264,6 @@ export const themeConfig = {
           { text: "工作备忘", link: "/pages/categories/工作备忘" },
         ],
       },
-      {
-        text: "项目推荐",
-        items: [
-          { text: "edgetunnel", link: "https://github.com/cmliu/edgetunnel", newTab: true },
-          { text: "twikoo", link: "https://github.com/yutian81/twikoo", newTab: true },
-          { text: "alist", link: "https://alist.nn.ci/zh/", newTab: true },
-          { text: "nezha", link: "https://nezha.wiki/guide/dashboard.html", newTab: true },
-        ],
-      }, 
       {        
         text: "页面导航",
         items: [
@@ -316,15 +272,6 @@ export const themeConfig = {
           { text: "隐私政策", link: "/pages/privacy" },
           { text: "版权协议", link: "/pages/cc" },
           { text: "致谢名单", link: "/pages/thanks" },
-        ],
-      },
-      {
-        text: "网站服务",
-        items: [
-          { text: "音乐时刻", link: "https://blog.811520.xyz/music/", newTab: true },
-          { text: "站点状态", link: "https://uptime.ytian.us.kg/status/service", newTab: true },
-          { text: "站点订阅", link: "https://blog2.811520.xyz/rss.xml", newTab: true },
-          { text: "问题反馈", link: "https://github.com/yutian81/yutian81.github.io/issues", newTab: true, },
         ],
       },
     ],
@@ -357,7 +304,7 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有我的各种<strong>折腾笔记</strong>，也有一些<strong>工作备忘</strong>和<strong>生活随笔</strong>。又菜又爱玩，<strong>万事都不难</strong>。",
+      text: "这里是红柒的<strong>笔记</strong>，或许会放一些乱七八糟的<strong>生活分享</strong>和<strong>资源链接</strong>。",
     },
     // 目录
     toc: {
