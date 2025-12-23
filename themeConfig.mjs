@@ -165,9 +165,9 @@ export const themeConfig = {
       name: "常用",
       list: [
         {
-          icon: "https://cover.ruom.top/favicon.ico",
+          icon: "https://genfavicon.com/favicon.ico",
           name: "封面制作",
-          url: "https://cover.ruom.top/",
+          url: "https://genfavicon.com/",
         },
         {
           icon: "https://www.favicon.vip/get.php?url=img.ytian.us.kg",
