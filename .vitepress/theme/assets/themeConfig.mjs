@@ -9,15 +9,15 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://hongxi-hub.github.io/",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
       name: "Admin",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "暂无",
+      link: "https://hongxi-hub.github.io/",
     },
   },
   // 建站日期
@@ -237,27 +237,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "暂无",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
-      },
-      {
-        icon: "telegram",
-        link: "https://t.me/bottom_user",
-      },
-      {
-        icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
-      },
-      {
-        icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
-      },
-      {
-        icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "https://github.com/hongxi-hub",
       },
     ],
     // sitemap
