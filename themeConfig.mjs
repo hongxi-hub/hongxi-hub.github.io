@@ -155,14 +155,9 @@ export const themeConfig = {
           url: "https://genfavicon.com/",
         },
         {
-          icon: "https://www.favicon.vip/get.php?url=img.ytian.us.kg",
-          name: "兰空图床",
-          url: "https://img.811520.xyz/",
-        },
-        {
-          icon: "https://pan.811520.xyz/2024-10/插入链接.webp",
-          name: "短链生成",
-          url: "https://slink.yuzong.nyc.mn/duanlian",  
+          icon: "https://www.freeconvert.com/favicon.ico",
+          name: "文件转换",
+          url: "https://www.freeconvert.com/",
         },
         {
           icon: "https://ctool.dev/favicon.ico",
@@ -173,11 +168,6 @@ export const themeConfig = {
           icon: "https://suburl.v1.mk/favicon.ico",
           name: "图片压缩",
           url: "https://imgtool.v1.mk/",
-        },
-        {
-          icon: "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
-          name: "博客仓库",
-          url: "https://github.com/yutian81/yutian81.github.io",
         },
       ],
     },
@@ -297,7 +287,7 @@ export const themeConfig = {
       // 倒计时日期
       data: {
         name: "春节",
-        date: "2025-05-01",
+        date: "2026-02-17",
       },
     },
     // 站点数据
