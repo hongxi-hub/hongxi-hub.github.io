@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>红柒</title>
+        <link>https://hongxi-hub.github.io/</link>
+        <description>基于 vitepress-theme-curve 搭建的 github pages 站点</description>
+        <lastBuildDate>Sun, 04 Jan 2026 02:50:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>红柒</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present 红柒</copyright>
+        <item>
+            <title><![CDATA[小王老师早上好上午好and中午好😀]]></title>
+            <link>https://hongxi-hub.github.io//posts/2025122220</link>
+            <guid>https://hongxi-hub.github.io//posts/2025122220</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <author>暂不显示 (红柒)</author>
+        </item>
+        <item>
+            <title><![CDATA[支持 API 调用的短链接服务（该文章为格式参考）]]></title>
+            <link>https://hongxi-hub.github.io//posts/2025-04/2025040401</link>
+            <guid>https://hongxi-hub.github.io//posts/2025-04/2025040401</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是一个使用 Cloudflare Worker 和 KV 创建的免费短链接服务，支持自定义短链，支持 QRcode 二维码，还有多种玩法，比如：变身网络记事本 pastebin、变身图床 imghost、变身网络日记本 journal 等。支持 API 调用。]]></description>
+            <author>暂不显示 (红柒)</author>
+        </item>
+    </channel>
+</rss>
