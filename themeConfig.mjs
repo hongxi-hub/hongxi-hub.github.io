@@ -147,21 +147,6 @@ export const themeConfig = {
   // 导航栏菜单 - 左侧
   navMore: [
     {
-      name: "博客",
-      list: [
-        {
-          icon: "/images/logo/logo.webp",
-          name: "博客主站",
-          url: "https://hongxi-hub.github.io/",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "原站工具",
-          url: "https://blog.811520.xyz/tlink/",
-        },
-      ],
-    },
-    {
       name: "常用",
       list: [
         {
