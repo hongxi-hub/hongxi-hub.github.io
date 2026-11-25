@@ -3,12 +3,12 @@
     <Banner
       type="page"
       title="我的项目"
-      desc="热衷于折腾并分享优秀的作品"
-      footer="写 BUG 小能手"
+      desc="尝试折腾并生成一些自己的作品"
+      footer="阿巴阿巴阿巴"
       image="https://pan.811520.xyz/2024-10/1730367564-1730367553978.webp"
     >
       <template #footer-slot>
-        <a class="to-github" href="https://github.com/yutian81/" target="_blank">
+        <a class="to-github" href="https://github.com/hongxi-hub" target="_blank">
           <i class="iconfont icon-github"></i>
           <span>前往 Github</span>
         </a>
