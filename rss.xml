@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>红柒</title>
+        <link>https://hongxi-hub.github.io/</link>
+        <description>基于 vitepress-theme-curve 搭建的 github pages 站点</description>
+        <lastBuildDate>Wed, 25 Nov 2026 06:28:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>红柒</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present 红柒</copyright>
+        <item>
+            <title><![CDATA[使用 Netlify + MongoDB Atlas 自建 Twikoo 评论系统]]></title>
+            <link>https://hongxi-hub.github.io//posts/2026111901</link>
+            <guid>https://hongxi-hub.github.io//posts/2026111901</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[使用 Netlify Functions 和 MongoDB Atlas 为静态博客部署独立的 Twikoo 评论服务。本文从数据库创建、GitHub 仓库 Fork、Netlify 部署、环境变量配置到博客前端接入，记录完整操作流程及部署过程中遇到的常见问题。]]></description>
+            <author>暂不显示 (红柒)</author>
+        </item>
+        <item>
+            <title><![CDATA[大家早上好上午好and中午好😀]]></title>
+            <link>https://hongxi-hub.github.io//posts/2025122220</link>
+            <guid>https://hongxi-hub.github.io//posts/2025122220</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <author>暂不显示 (红柒)</author>
+        </item>
+        <item>
+            <title><![CDATA[支持 API 调用的短链接服务（该文章为格式参考）]]></title>
+            <link>https://hongxi-hub.github.io//posts/2025-04/2025040401</link>
+            <guid>https://hongxi-hub.github.io//posts/2025-04/2025040401</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是一个使用 Cloudflare Worker 和 KV 创建的免费短链接服务，支持自定义短链，支持 QRcode 二维码，还有多种玩法，比如：变身网络记事本 pastebin、变身图床 imghost、变身网络日记本 journal 等。支持 API 调用。]]></description>
+            <author>暂不显示 (红柒)</author>
+        </item>
+    </channel>
+</rss>
